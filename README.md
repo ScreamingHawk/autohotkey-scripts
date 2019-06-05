@@ -12,6 +12,10 @@ Repo for all my auto hotkey scripts
 
 Fucken Slack...
 
+## Notes
+
+All scripts will create a shortcut in your start up folder so that they are enabled at start up.
+
 ## Links
 
 * [AutoHotkey](https://www.autohotkey.com/)
